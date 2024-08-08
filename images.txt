@@ -1,1 +1,1 @@
-sentinel-dashboard
+bladex/sentinel-dashboard
